@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there! 👋
 
 - 🔭 I’m currently working on ricing my Arch Linux (btw) setup.
 - 🌱 I’m currently learning ...
