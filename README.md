@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Minecraft/Hackintosh projects.
 - 🤔 I’m looking for help with Minecraft projects.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: no
+- ⚡ Fun fact: I have commit spamming problems. Something is always wrong and I only realize it after I commit...
