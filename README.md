@@ -8,5 +8,5 @@
 - ⚡ Fun fact: I have commit spamming problems. Something is always wrong and I only realize it after I commit...
 - Note: If my commit history looks so empty, I recently (as of March 16th, 2021) deleted a ton of old repos that were left unused.
 
-[![Satyrn's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyrnhub&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Satyrn's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyrnhub&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
